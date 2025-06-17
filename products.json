@@ -1,0 +1,163 @@
+[
+  {
+    "type": "physical",
+    "product_id": "P001",
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "quantity_available": 10,
+    "weight": 0.2
+  },
+  {
+    "type": "physical",
+    "product_id": "P002",
+    "name": "Mechanical Keyboard",
+    "price": 55.75,
+    "quantity_available": 5,
+    "weight": 1.1
+  },
+  {
+    "type": "digital",
+    "product_id": "D001",
+    "name": "E-book: Learn Python",
+    "price": 9.99,
+    "quantity_available": 9999,
+    "download_link": "https://example.com/python-ebook"
+  },
+  {
+    "type": "digital",
+    "product_id": "D002",
+    "name": "Software License - Antivirus",
+    "price": 19.95,
+    "quantity_available": 100,
+    "download_link": "https://example.com/antivirus"
+  },
+  {
+    "type": "physical",
+    "product_id": "P003",
+    "name": "USB-C Cable",
+    "price": 5.49,
+    "quantity_available": 25,
+    "weight": 0.05
+  },
+  {
+    "type": "physical",
+    "product_id": "P004",
+    "name": "Bluetooth Speaker",
+    "price": 34.99,
+    "quantity_available": 8,
+    "weight": 0.7
+  },
+  {
+    "type": "digital",
+    "product_id": "D003",
+    "name": "Online Course - JavaScript",
+    "price": 49.99,
+    "quantity_available": 5000,
+    "download_link": "https://example.com/js-course"
+  },
+  {
+    "type": "physical",
+    "product_id": "P005",
+    "name": "Webcam 1080p",
+    "price": 39.99,
+    "quantity_available": 12,
+    "weight": 0.3
+  },
+  {
+    "type": "digital",
+    "product_id": "D004",
+    "name": "E-book: Data Structures",
+    "price": 12.99,
+    "quantity_available": 9999,
+    "download_link": "https://example.com/data-structures"
+  },
+  {
+    "type": "physical",
+    "product_id": "P006",
+    "name": "External Hard Drive 1TB",
+    "price": 75.0,
+    "quantity_available": 6,
+    "weight": 0.6
+  },
+  {
+    "type": "physical",
+    "product_id": "P007",
+    "name": "LED Desk Lamp",
+    "price": 22.95,
+    "quantity_available": 14,
+    "weight": 1.0
+  },
+  {
+    "type": "digital",
+    "product_id": "D005",
+    "name": "Premium Icon Pack",
+    "price": 4.99,
+    "quantity_available": 9999,
+    "download_link": "https://example.com/icons"
+  },
+  {
+    "type": "physical",
+    "product_id": "P008",
+    "name": "Noise Cancelling Headphones",
+    "price": 129.99,
+    "quantity_available": 7,
+    "weight": 0.9
+  },
+  {
+    "type": "digital",
+    "product_id": "D006",
+    "name": "Photo Editing Software",
+    "price": 29.99,
+    "quantity_available": 500,
+    "download_link": "https://example.com/photo-edit"
+  },
+  {
+    "type": "physical",
+    "product_id": "P009",
+    "name": "Ergonomic Chair",
+    "price": 199.99,
+    "quantity_available": 3,
+    "weight": 12.0
+  },
+  {
+    "type": "digital",
+    "product_id": "D007",
+    "name": "Music Album - LoFi Beats",
+    "price": 7.49,
+    "quantity_available": 9999,
+    "download_link": "https://example.com/lofi-beats"
+  },
+  {
+    "type": "physical",
+    "product_id": "P010",
+    "name": "Smartwatch",
+    "price": 149.95,
+    "quantity_available": 9,
+    "weight": 0.25
+  },
+  {
+    "type": "digital",
+    "product_id": "D008",
+    "name": "Mobile App UI Kit",
+    "price": 14.99,
+    "quantity_available": 9999,
+    "download_link": "https://example.com/ui-kit"
+  },
+  {
+    "type": "physical",
+    "product_id": "P011",
+    "name": "Laptop Stand",
+    "price": 29.99,
+    "quantity_available": 20,
+    "weight": 0.8
+  },
+  {
+    "type": "digital",
+    "product_id": "D009",
+    "name": "Video Editing Plugin Pack",
+    "price": 19.0,
+    "quantity_available": 9999,
+    "download_link": "https://example.com/plugins"
+  }
+]
+
